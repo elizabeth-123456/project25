@@ -93,7 +93,7 @@ export default function LandingView (props) {
             <form>
               <Paper elevation={6}>  
 
-              <h3>Enter Search Criteria to find flights</h3>
+              <h3>Enter Search Criteria to find flights, Example</h3>
                 <div className='inner-search-form'>
                    <FormControl>
                         <RadioGroup
